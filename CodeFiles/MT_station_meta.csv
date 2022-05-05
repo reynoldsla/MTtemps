@@ -1,0 +1,83 @@
+station,name,date_installed,sub_network,longitude,latitude,elevation,mesowest_id,gwic_id
+arskeogh,Fort Keogh N,2017-06-26,AgriMet,-105.95,46.41,818.85,MTM23,NA
+arskeose,Fort Keogh SE,2018-06-19,AgriMet,-105.83,46.35,746.04,MTM25,NA
+arskeosw,Fort Keogh SW,2018-06-26,AgriMet,-105.98,46.3,849.2,MTM26,NA
+bentlake,Benton Lake W,2017-07-01,AgriMet,-111.47,47.69,1129.44,MTM21,NA
+blm1arge,Argenta,2017-08-18,AgriMet,-112.88,45.25,1898.93,MTM14,NA
+blm2virg,Virginia City,2017-08-23,AgriMet,-111.88,45.27,2238.82,MTM17,NA
+blm3mcca,McCartney Mtn,2017-08-20,AgriMet,-112.6,45.55,1850.71,MTM18,NA
+blm5kidd,Kidd,2017-10-02,AgriMet,-112.72,44.81,1905.7,MTM16,NA
+blmbattl,Battle Creek,2018-08-21,AgriMet,-103.78,45.07,988.09,MTM30,NA
+blmbelfr,Belfry E,2018-09-28,AgriMet,-108.9,45.18,1194.85,MTM31,NA
+blmbroad,Broadus,2018-08-11,AgriMet,-105.36,45.44,961.55,MTM32,NA
+blmcapit,Capitol,2018-08-13,AgriMet,-104.14,45.32,1003.48,MTM33,NA
+blmglend,Glendive,2018-06-25,AgriMet,-104.75,46.92,707.35,MTM28,NA
+blmglnor,Vandalia N,2018-10-10,AgriMet,-106.91,48.51,790.51,MTM34,NA
+blmhardi,Harding Cutoff,2018-08-21,AgriMet,-103.73,45.17,982.06,MTM36,NA
+blmhavre,Cherry Ridge,2018-10-07,AgriMet,-109.05,48.87,921.77,MTM37,NA
+blmmatad,Zortman E,2018-10-13,AgriMet,-108.32,47.89,943.82,MTM38,NA
+blmplevn,Plevna,2018-08-20,AgriMet,-104.43,46.44,922.31,MTM39,NA
+blmpumpk,Pumpkin Creek,2018-08-09,AgriMet,-105.7,46.2,830.59,MTM40,NA
+blmround,Roundup NW,2018-09-25,AgriMet,-108.74,46.58,1106.22,MTM41,NA
+blmroyno,Roy,2019-08-07,AgriMet,-108.95,47.49,936.41,MTM42,NA
+blmterry,Terry,2018-06-26,AgriMet,-105.26,46.84,707.38,MTM29,NA
+blmwarre,Warren E,2018-09-27,AgriMet,-108.44,45.04,1594.16,MTM43,NA
+churchil,Churchill,2017-09-27,AgriMet,-111.37,45.73,1456.99,MTM07,NA
+conradmt,Conrad,2016-10-20,AgriMet,-111.93,48.31,1132.03,MTM05,NA
+corvalli,Corvallis,2016-09-30,AgriMet,-114.09,46.33,1093.71,MTM04,NA
+crowagen,Crow Agency E,2017-04-19,AgriMet,-107.44,45.59,939.56,MTM13,NA
+ebarllob,Clearwater SW,2016-11-21,AgriMet,-113.37,46.96,1181,MTM08,NA
+ekalakas,Ekalaka SE,2020-10-14,AgriMet,-104.34,45.71,972.42,MTM93,NA
+ftbentcb,Fort Benton E,2017-09-13,AgriMet,-110.48,47.79,988.71,MTM02,NA
+havrenmt,Havre,2016-10-21,AgriMet,-109.8,48.49,827.06,MTM06,NA
+huntleys,Huntley,2016-10-27,AgriMet,-108.23,45.92,923.95,MTM11,NA
+kalispel,Kalispell E,2016-09-29,AgriMet,-114.14,48.19,900.52,MTM03,NA
+lololowr,Lolo Lower,2016-09-22,AgriMet,-114.13,46.75,998,MTM01,NA
+lomawood,Loma S,2018-07-26,AgriMet,-110.53,47.89,851.66,MTM45,NA
+lubrecht,Lubrecht Forest,2017-06-16,AgriMet,-113.44,46.89,1241.85,MTM12,NA
+mbmgtech,MT Tech,2018-09-15,AgriMet,-112.56,46.01,1774.35,MTM46,NA
+mdabench,Benchland NE,2019-04-29,AgriMet,-109.97,47.09,1293.54,MTM47,133047
+mdacasca,Cascade E,2019-10-22,AgriMet,-111.62,47.28,1034.38,MTM76,286443
+mdachine,Chinook E,2018-10-06,AgriMet,-109.16,48.58,729.61,MTM48,286445
+mdachote,Choteau NE,2019-04-29,AgriMet,-112.09,47.89,1152.33,MTM49,213965
+mdadagma,Dagmar NW,2019-10-02,AgriMet,-104.25,48.66,646.25,MTM82,235955
+mdadillo,Dillon NE,2019-09-25,AgriMet,-112.59,45.25,1534.87,MTM70,213964
+mdaedgar,Edgar E,2019-05-29,AgriMet,-108.86,45.46,1058.97,MTM50,122340
+mdafroid,Froid NE,2019-10-03,AgriMet,-104.48,48.35,627.6,MTM81,235081
+mdagildf,Gildford N,2019-07-03,AgriMet,-110.28,48.7,854.22,MTM51,213968
+mdaglasw,Glasgow W,2019-10-02,AgriMet,-106.72,48.23,638.99,MTM72,213969
+mdahardi,Hardin N,2019-10-17,AgriMet,-107.6,45.87,863.58,MTM75,236086
+mdahogel,Hogeland SE,2018-10-09,AgriMet,-108.56,48.77,950.5,MTM52,121258
+mdaledge,Ledger N,2019-10-10,AgriMet,-111.82,48.34,1047.42,MTM73,121215
+mdamalta,Malta W,2018-09-20,AgriMet,-108,48.35,688.8,MTM69,235919
+mdamanha,Manhattan S,2019-09-26,AgriMet,-111.32,45.79,1329.22,MTM71,286439
+mdamiles,Miles City S,2019-10-16,AgriMet,-105.76,46.22,749.28,MTM74,236367
+mdamoies,Moiese N,2020-06-16,AgriMet,-114.26,47.42,867.14,MTM79,216984
+mdaoilmo,Oilmont E,2019-06-24,AgriMet,-111.6,48.78,1087.91,MTM53,286440
+mdapower,Power S,2019-04-29,AgriMet,-111.71,47.66,1132.73,MTM54,122338
+mdascoby,Scobey N,2019-10-02,AgriMet,-105.44,48.88,730.33,MTM78,214376
+mdatost2,Toston SW2,2021-04-21,AgriMet,-111.54,46.11,1233.38,MTM83,314258
+mdatwinb,Twin Bridges S,2019-05-22,AgriMet,-112.36,45.47,1448.64,MTM56,262226
+moccasin,Mocassin,2016-12-19,AgriMet,-109.95,47.06,1294.77,MTM09,NA
+moltwest,Molt W,2017-10-19,AgriMet,-109.09,45.82,1270.41,MTM20,NA
+namlower,Hot Springs NE Lower,2018-07-30,AgriMet,-114.51,47.7,1039.82,MTM57,NA
+namupper,Hot Springs NE Upper,2018-07-31,AgriMet,-114.54,47.72,1524.73,MTM58,NA
+nctbirne,Birney N,2021-06-19,AgriMet,-106.58,45.45,1281.88,MTM92,NA
+nctbusby,Busby N,2021-06-18,AgriMet,-106.95,45.64,1220.14,MTM91,NA
+pvbrisbi,Brisbin,2021-09-21,AgriMet,-110.61,45.53,1431.07,MTM84,NA
+pvcarbel,Carbella N,2021-09-24,AgriMet,-110.88,45.28,1772.31,MTM85,NA
+pvemigra,Emigrant E,2021-09-24,AgriMet,-110.68,45.35,1625.21,MTM86,NA
+raplejen,Rapleje N,2017-06-20,AgriMet,-109.24,46.04,1269.39,MTM19,NA
+reedpoin,Reed Point NE,2017-10-20,AgriMet,-109.43,45.8,1295.79,MTM22,NA
+sevnoner,Ingomar NE,2016-10-27,AgriMet,-107.22,46.66,939.56,MTM59,NA
+sidneymt,Sidney,2016-10-25,AgriMet,-104.25,47.78,688.48,MTM10,NA
+turekran,Coffee Creek N,2016-11-08,AgriMet,-110.13,47.39,1132.15,MTM15,NA
+usfsmacp,MacDonald Pass,2018-11-16,AgriMet,-112.31,46.56,1939.15,MTM68,NA
+whitshaw,Whitefish N,2018-07-23,AgriMet,-114.44,48.48,918.38,MTM60,NA
+wrsround,Roundup NE,2018-10-18,AgriMet,-108.42,46.58,1047.34,MTM61,NA
+wsrabsaw,Absarokee W,2018-09-19,AgriMet,-109.61,45.56,1400.4,MTM62,NA
+wsrbigtm,Big Timber SE,2019-07-02,AgriMet,-109.83,45.74,1335.29,MTM63,NA
+wsrboydw,Cooney Reservoir W,2018-09-21,AgriMet,-109.26,45.47,1429.65,MTM64,NA
+wsrbroad,Broadview E,2018-09-30,AgriMet,-108.76,46.13,1239.41,MTM65,NA
+wsrmelvi,Melville SE,2019-07-03,AgriMet,-109.84,46,1430.15,MTM66,NA
+wsrreeds,Reed Point S,2018-09-18,AgriMet,-109.56,45.61,1429.43,MTM67,NA
